@@ -5,7 +5,10 @@
       "Editing-Scope",
       "Asset-Types"
     ],
-    "Response SLA": ["doc2"],
+    "Response SLA": [
+      "Response-SLAs",
+      "Response-SLAs-on-Security-Pages"
+    ],
     "Inbox Views": ["doc3"]
   },
   "docs-other": {
