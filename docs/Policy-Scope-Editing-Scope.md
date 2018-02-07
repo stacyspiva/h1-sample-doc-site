@@ -1,6 +1,6 @@
 ---
-id: Defining-Scope
-title: Defining Scope
+id: Editing-Scope
+title: Editing Scope
 ---
 Your Scope is a collection of assets you want hackers to hack on.
 
