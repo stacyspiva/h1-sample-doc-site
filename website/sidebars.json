@@ -1,8 +1,8 @@
 {
   "docs": {
     "Policy Scope": [
-      "Defining-Scope"
-      "Editing-Scope"
+      "Defining-Scope",
+      "Editing-Scope",
       "Asset-Types"
     ],
     "Response SLA": ["doc2"],
