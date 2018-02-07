@@ -16,8 +16,8 @@ const users = [
 ];
 
 const siteConfig = {
-  title: 'Test Site' /* title for your website */,
-  tagline: 'A website for testing',
+  title: 'HackerOne Doc Test Site' /* title for your website */,
+  tagline: 'A website for your documentation',
   url: 'https://facebook.github.io' /* your website url */,
   baseUrl: '/test-site/' /* base url for your project */,
   projectName: 'test-site',
