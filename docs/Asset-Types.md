@@ -1,5 +1,5 @@
 ---
-id: Asset Types
+id: Asset-Types
 title: Asset Types
 ---
 HackerOne provides functionality to allow you to define your program's scope by listing assets that are considered in or out of scope for your program.
