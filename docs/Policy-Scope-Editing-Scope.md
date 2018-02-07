@@ -7,10 +7,10 @@ Your Scope is a collection of assets you want hackers to hack on.
 To view and edit your existing scope: 
 1. Go to the Scope section in your program's **Settings** > **Program** > **Policy & Scope**.
 
-![Scope image 1](https://support.hackerone.com/hc/article_attachments/115009968543/Screen_Shot_2017-06-14_at_2.49.51_PM.png)
+![Scope image 1]('img/Scope.png')
 
 2. Click on **Add asset**. It will bring you to this page:
-![Scope image 2](https://hackerone.zendesk.com/hc/article_attachments/115009968563/Screen_Shot_2017-06-14_at_2.51.46_PM.png)
+![Scope image 2]('img/Scope2.png')
 
 3. Fill out the different fields. For each asset, you can fill out:
 
