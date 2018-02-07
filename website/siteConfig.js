@@ -29,7 +29,7 @@ const siteConfig = {
   ],
   users,
   /* path to images for header/footer */
-  headerIcon: 'img/docusaurus.svg',
+  headerIcon: 'img/HackerOne Logo.png',
   footerIcon: 'img/docusaurus.svg',
   favicon: 'img/favicon.png',
   /* colors for website */
